@@ -44,7 +44,7 @@ div {
 /* Background */
 
 body {
-    background-image: url('Thegirl.png');
+    background-image: 'Thegirl.png';
     background-size: auto;
     *background: linear-gradient(to top left, #ffffcc 0%, #ff99cc 99%);*
 }
