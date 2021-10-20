@@ -44,7 +44,7 @@ div {
 /* Background */
 
 body {
-    linear-gradient(to top left, #ffffcc 0%, #ff99cc 99%);*
+     background-image: url('Thegirl.png');
 }
 
 /* Text */
