@@ -62,15 +62,15 @@ h1 {
 /* Categories */
 
 ul:nth-child(1) {
-  color: #00ffcc;
+  color: #124cb4;
 }
 
 ul:nth-child(2) {
-  color: #e61975;
+  color: #ba02ff;
 }
 
 ul:nth-child(3) {
-  color: #8400D5;
+  color: #ff27ff;
 }
 
 ul:nth-child(4) {
