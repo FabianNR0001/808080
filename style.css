@@ -21,6 +21,7 @@ li:first-child:after {
   border-right: 2px solid;
   transition: border-right 50ms;
   margin-right: var(--spacing);
+  
 }
 
 /* Hover effects */
@@ -33,7 +34,7 @@ ul:hover li:first-child:after {
 /* Link separator */
 
 div {
-  --link-separator: '+';
+  --link-separator: '';
 }
 
 
@@ -115,7 +116,6 @@ h1 {
   font-size: 8em;
   margin: 0;
   text-align: center;
-  max-lines: 2;
 }
 
 
@@ -131,7 +131,7 @@ ul {
 li, a {
   font-family: 'Drift', monospace;
   color: var(--text-color);
-  display: inline-block;
+  display: inline;
   position: relative;
   font-size: 2em;
   letter-spacing: normal;

@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Drift';
+    src: url('Drift.woff2') format('woff2'),
+        url('Drift.woff') format('woff'),
+        url('Drift.svg#Drift') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
