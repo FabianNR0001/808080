@@ -18,7 +18,7 @@ li:first-child:after {
   /*content: '|';*/
   /*content: '\000BB';*/ /* For » arrows */
   content: '';
-  border-right: 1px solid;
+  border-right: 2px solid;
   transition: border-right 50ms;
   margin-right: var(--spacing);
   
@@ -109,11 +109,6 @@ font-family: 'Drift';
 src: url('Drift.woff2') format('woff2'),
     url('Drift.woff') format('woff'),
     url('Drift.svg#Drift') format('svg');
-}
-body {
-  margin 0;
-  overflow-x: hidden;
-  text-align: center;
 }
 h1 {
   font-family: 'iron-on_blackletterregular';
