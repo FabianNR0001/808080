@@ -116,7 +116,7 @@ h1 {
   margin: 0;
   text-align: center;;
   text-shadow: 10px 10px 2px  #ffffff;
-  text-decoration: ;
+  text-decoration: none;
 }
 
 
@@ -126,7 +126,7 @@ a {
 }
 
 ul {
-  padding-left: 0;
+  padding-left: 0px;
 }
 
 li, a {
@@ -182,4 +182,10 @@ div {
   -ms-transform: translate(-50%, -50%);     /* IE9+ */
   -o-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+}
+.css01 {
+  height: 240px;
+  width: 100px;
+  object-fit: cover;
+  float: left;
 }
