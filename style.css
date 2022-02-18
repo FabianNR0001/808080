@@ -114,7 +114,9 @@ h1 {
   font-family: 'iron-on_blackletterregular';
   font-size: 8em;
   margin: 0;
-  text-align: center;
+  text-align: center;;
+  text-shadow: 10px 10px 2px  #ffffff;
+  text-decoration: ;
 }
 
 
