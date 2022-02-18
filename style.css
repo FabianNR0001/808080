@@ -65,17 +65,17 @@ h1 {
 ul:nth-child(1) {
   color: #03fad1;
 }
-
 ul:nth-child(2) {
-  color: #ba02ff;
+  color: #03fad1
+  ;
 }
-
 ul:nth-child(3) {
-  color: #ff27ff;
+  color: #ba02ff
+  ;
 }
 
 ul:nth-child(4) {
-  color: #e8702a;
+  color: #ff27ff;
 }
 
 ul:nth-child(5) {
