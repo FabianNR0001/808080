@@ -57,7 +57,7 @@ div {
 /* Heading */
 
 h1 {
-  color: #fb607f;
+  color: #00e1ff70;
 }
 
 /* Categories */
@@ -115,7 +115,7 @@ h1 {
   font-size: 8em;
   margin: 0;
   text-align: center;;
-  text-shadow: 10px 10px 2px  #ffffff;
+  text-shadow: 10px 10px 2px  #ff0000a4;
   text-decoration: none;
 }
 
