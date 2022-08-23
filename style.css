@@ -34,7 +34,7 @@ ul:hover li:first-child:after {
 /* Link separator */
 
 div {
-  --link-separator: '◈';
+  --link-separator: '⁜';
 }
 
 
